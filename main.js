@@ -1,1 +1,1 @@
-alert('Hola desde JavaScript')
+alert('¡Hoy es el primer día del resto de mi vida!')
